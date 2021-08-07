@@ -41,4 +41,43 @@ Untracked files:
 
 nothing added to commit but untracked files present (use "git add" to track)
 
+i have completed this feature
+git commit
+it will open up text editor (vim)
+press i for insert mode
+write message
+press esc
+:wq
 
+git status
+
+git log
+to see the history of file
+
+
+
+
+2>
+
+upload and fetch from github
+push our local repo to github repo
+setup remote
+
+git remote add origin https://github.com/codetogetplaced/git-repo-for-learning.git
+
+git branch
+prints all branches
+
+fetch from github
+git clone https://github.com/codetogetplaced/git-repo-for-learning.git
+
+all changes made is visible to remote team made
+
+
+
+how to work with branches?
+branch for a specific feature.
+
+a new feature comes up, chance that i may end up screwing up
+
+git branch <new-branch>
