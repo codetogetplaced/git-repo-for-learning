@@ -81,3 +81,25 @@ branch for a specific feature.
 a new feature comes up, chance that i may end up screwing up
 
 git branch <new-branch>
+
+
+git branch
+display all branches
+  master
+* second
+
+
+git add .
+add to staging new code to branch second
+
+git commit
+
+git checkout master
+to change branch to master
+
+in cmd 
+u have to do git fetch --all
+
+how to merge all features?
+
+
